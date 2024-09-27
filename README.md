@@ -1,4 +1,4 @@
-# real_estate_prediction
+# ML-Python Practice 1: Real Estate Prediction (Linear Regression)
 
 This project is referred from below link for study purpose. Credit to the owner:
 https://thecleverprogrammer.com/2023/12/11/real-estate-price-prediction-using-python/
